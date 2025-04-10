@@ -1,2 +1,5 @@
-Start-Process "https://roblox.com"
-Start-Process "https://roblox.com"
+Start-Process "https://pornhub.com"
+Start-Process "https://xvideos.com"
+Start-Process "https://xhamster.com"
+Start-Process "https://redtube.com"
+Start-Process "https://spankwire.com"
